@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/C# 3.0/">
+    <Project Path="C# 3.0/AnonymousTypes/AnonymousTypes.csproj" />
+    <Project Path="C# 3.0/ImplicitlyTypedArrays/ImplicitlyTypedArrays.csproj" />
+    <Project Path="C# 3.0/ObjectIinitializers/ObjectIinitializers.csproj" />
+    <Project Path="C# 3.0/QueryComprehensions/QueryComprehensions.csproj" />
+  </Folder>
+  <Folder Name="/C# 6.0/">
+    <Project Path="C# 6.0/ExpressionBodiedFunctions/ExpressionBodiedFunctions.csproj" />
+    <Project Path="C# 6.0/IndexInitializers/IndexInitializers.csproj" />
+  </Folder>
+  <Folder Name="/C# 8.0/">
+    <Project Path="C# 8.0/Indexes/Indexes.csproj" />
+    <Project Path="C# 8.0/StaticLocalMethods/StaticLocalMethods.csproj" />
+  </Folder>
+  <Project Path="C# 3.0/ExtensionMethods/ExtensionMethods.csproj" />
+  <Project Path="C# 3.0/ImplicitlyTypedLocalVariables/ImplicitlyTypedLocalVariables.csproj" />
+  <Project Path="C# 3.0/LambdaExpressions/LambdaExpressions.csproj" />
+</Solution>
